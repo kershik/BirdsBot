@@ -7,7 +7,7 @@ import keyboard as kb
 from model_26 import model, transform
 import pandas as pd
 
-API_TOKEN = '5336164984:AAGVvcXrchOYqIRVuMBXpnlW3TiMYbIL5-I'
+API_TOKEN = '5336164984:AAGVvcXrchOYqIRVuMBXpnlW3TiMYbIL5-I' # example how to place token
 FILE = 'test.jpg'
 counter = 0
 
